@@ -23,7 +23,7 @@
     "require": {
         "php": "^8.0",
         "saber13812002/laravel-nova": "^4.0",
-        "nova-kit/nova-packages-tool": "^1.2",
+        "saber13812002/nova-packages-tool": "^1.2",
         "spatie/laravel-tags": "^4.0"
     },
     "require-dev": {
